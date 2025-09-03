@@ -23,9 +23,6 @@ This tool helps law enforcement agencies, cyber forensic professionals, and secu
 - ✅ **SMS Export** – Pull and save SMS database (logical extraction).  
 - ✅ **Call Logs Export** – Collect call history for investigation.  
 - ✅ **Logical Data Export** – Bundle SMS, Call Logs, and Contacts in one report.  
-- ✅ **Smooth Modern UI** – Clean white & blue theme (PyQt5).  
-- ✅ **No QThread Crashes** – Stable multithreading for Windows.  
-- ✅ **Portable .exe Build** – Runs on Windows without Python installed.  
 
 ---
 
